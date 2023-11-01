@@ -1,0 +1,5 @@
+ <library path="lib/librrtstar_global_planner_lib">
+  <class name="rrtstar_global_planner/Rrtstar" type="rrtstar_global_planner::Rrtstar" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>This is a custom RRT* global planner plugin by Ahaan Kotian</description>
+  </class>
+ </library>
